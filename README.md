@@ -6,12 +6,16 @@ It demonstrates Routing, Services, HttpClient, and dynamic features like searchi
 
 ## Features
 - Display all paintings dynamically
+  
 ![Gallery Screenshot](src/assets/images/products.png)
+<img src="src/assets/images/products.png" width="200">
 
 - Search paintings by name
+  
 ![Search Screenshot](src/assets/images/search.png)
 
 - Sort paintings by price
+  
 ![Sort Screenshot](src/assets/images/sort.png)
 
 ## Technologies Used
