@@ -7,16 +7,17 @@ It demonstrates Routing, Services, HttpClient, and dynamic features like searchi
 ## Features
 - Display all paintings dynamically
   
-![Gallery Screenshot](src/assets/images/products.png)
-<img src="src/assets/images/products.png" width="200">
+<img src="src/assets/images/products.png" width="300">
 
 - Search paintings by name
   
-![Search Screenshot](src/assets/images/search.png)
+<img src="src/assets/images/search.png" width="300">
+
 
 - Sort paintings by price
   
-![Sort Screenshot](src/assets/images/sort.png)
+<img src="src/assets/images/sort.png" width="300">
+
 
 ## Technologies Used
 - Angular 16
