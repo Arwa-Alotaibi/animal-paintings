@@ -11,7 +11,6 @@ import {MatButtonModule} from '@angular/material/button';
 import { CartModule } from './cart/cart.module';
 
 
-
 @NgModule({
   declarations: [
     AppComponent
