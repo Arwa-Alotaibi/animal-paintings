@@ -20,7 +20,7 @@ It demonstrates Routing, Services, HttpClient, and dynamic features like searchi
 
 
 ## Technologies Used
-- Angular 16
+- Angular 
 
 - TypeScript
 
